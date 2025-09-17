@@ -34,7 +34,7 @@ This Ansible role automates the deployment of a **Kubernetes cluster** on AWS (o
 2. Clone the repository:
    ```bash
    git clone https://github.com/shrookibrahem/k8s-setup-playbook.git
-   cd k8s-ansible-role
+   cd k8s_setup
 
 3. Edit the inventory file
 
